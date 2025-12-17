@@ -118,5 +118,20 @@
       "GITHUB"
     ],
     "timestamp": 1765980909047
+  },
+  {
+    "type": "heartbeat",
+    "peerId": "1765980803234_ybjk6ik4v",
+    "username": "橙狗狗",
+    "supportedModes": [
+      "P2P_IPv6",
+      "GITHUB",
+      "DUAL"
+    ],
+    "activeModes": [
+      "P2P_IPv6",
+      "GITHUB"
+    ],
+    "timestamp": 1765980917047
   }
 ]
