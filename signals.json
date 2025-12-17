@@ -1,0 +1,14 @@
+[
+  {
+    "to": "all",
+    "type": "heartbeat",
+    "data": {
+      "peerId": "peer_1765978156186_gc92jyqqz",
+      "username": "安静海豚452",
+      "mode": "P2P (IPv4)",
+      "timestamp": 1765978157413
+    },
+    "timestamp": 1765978158716,
+    "from": "peer_1765978156186_gc92jyqqz"
+  }
+]
