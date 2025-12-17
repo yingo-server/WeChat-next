@@ -57,5 +57,17 @@
     },
     "timestamp": 1765978181122,
     "from": "peer_1765978160009_gcmj3xago"
+  },
+  {
+    "to": "all",
+    "type": "heartbeat",
+    "data": {
+      "peerId": "peer_1765978160009_gcmj3xago",
+      "username": "幽默狐狸173",
+      "mode": "P2P (IPv4)",
+      "timestamp": 1765978191077
+    },
+    "timestamp": 1765978191121,
+    "from": "peer_1765978160009_gcmj3xago"
   }
 ]
