@@ -66,5 +66,17 @@
     },
     "timestamp": 1765978830864,
     "from": "peer_1765978799662_7sw055i54"
+  },
+  {
+    "to": "all",
+    "type": "heartbeat",
+    "data": {
+      "peerId": "peer_1765978833353_pp0ioe8bb",
+      "username": "优雅星辰323",
+      "mode": "P2P (IPv4)",
+      "timestamp": 1765978834418
+    },
+    "timestamp": 1765978835598,
+    "from": "peer_1765978833353_pp0ioe8bb"
   }
 ]
