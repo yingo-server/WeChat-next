@@ -12,21 +12,6 @@
       "P2P_IPv6",
       "GITHUB"
     ],
-    "timestamp": 1765981489332
-  },
-  {
-    "type": "heartbeat",
-    "peerId": "1765980838724_7jm45um78",
-    "username": "紫狐狸",
-    "supportedModes": [
-      "P2P_IPv6",
-      "GITHUB",
-      "DUAL"
-    ],
-    "activeModes": [
-      "P2P_IPv6",
-      "GITHUB"
-    ],
     "timestamp": 1765981497333
   },
   {
@@ -118,5 +103,20 @@
       "GITHUB"
     ],
     "timestamp": 1765981545333
+  },
+  {
+    "type": "heartbeat",
+    "peerId": "1765980838724_7jm45um78",
+    "username": "紫狐狸",
+    "supportedModes": [
+      "P2P_IPv6",
+      "GITHUB",
+      "DUAL"
+    ],
+    "activeModes": [
+      "P2P_IPv6",
+      "GITHUB"
+    ],
+    "timestamp": 1765981553336
   }
 ]
