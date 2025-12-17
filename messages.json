@@ -7,5 +7,14 @@
     "text": "hi",
     "timestamp": 1765980820061,
     "deliveryMethod": []
+  },
+  {
+    "id": "1765980838724_7jm45um78_1765980887814_cbqthztq1",
+    "type": "chat",
+    "peerId": "1765980838724_7jm45um78",
+    "username": "紫狐狸",
+    "text": "SB",
+    "timestamp": 1765980887814,
+    "deliveryMethod": []
   }
 ]
