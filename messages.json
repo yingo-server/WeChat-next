@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "1765980803234_ybjk6ik4v_1765980820061_0c09tg6pb",
+    "type": "chat",
+    "peerId": "1765980803234_ybjk6ik4v",
+    "username": "橙狗狗",
+    "text": "hi",
+    "timestamp": 1765980820061,
+    "deliveryMethod": []
+  }
+]
