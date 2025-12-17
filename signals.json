@@ -3,83 +3,12 @@
     "to": "all",
     "type": "heartbeat",
     "data": {
-      "peerId": "peer_1765978156186_gc92jyqqz",
-      "username": "安静海豚452",
+      "peerId": "peer_1765978799662_7sw055i54",
+      "username": "优雅狐狸904",
       "mode": "P2P (IPv4)",
-      "timestamp": 1765978157413
+      "timestamp": 1765978800828
     },
-    "timestamp": 1765978158716,
-    "from": "peer_1765978156186_gc92jyqqz"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978160009_gcmj3xago",
-      "username": "幽默狐狸173",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978161072
-    },
-    "timestamp": 1765978161516,
-    "from": "peer_1765978160009_gcmj3xago"
-  },
-  {
-    "to": "peer_1765978156186_gc92jyqqz",
-    "type": "ice-candidate",
-    "data": {
-      "candidate": "candidate:842163049 1 udp 1677729535 61.242.130.177 30860 typ srflx raddr 10.6.196.188 rport 44828 generation 0 ufrag xruV network-cost 999",
-      "sdpMid": "0",
-      "sdpMLineIndex": 0
-    },
-    "timestamp": 1765978165234,
-    "from": "peer_1765978160009_gcmj3xago"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978160009_gcmj3xago",
-      "username": "幽默狐狸173",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978171075
-    },
-    "timestamp": 1765978171099,
-    "from": "peer_1765978160009_gcmj3xago"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978160009_gcmj3xago",
-      "username": "幽默狐狸173",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978181075
-    },
-    "timestamp": 1765978181122,
-    "from": "peer_1765978160009_gcmj3xago"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978160009_gcmj3xago",
-      "username": "幽默狐狸173",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978191077
-    },
-    "timestamp": 1765978191121,
-    "from": "peer_1765978160009_gcmj3xago"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978160009_gcmj3xago",
-      "username": "幽默狐狸173",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978201083
-    },
-    "timestamp": 1765978201121,
-    "from": "peer_1765978160009_gcmj3xago"
+    "timestamp": 1765978802152,
+    "from": "peer_1765978799662_7sw055i54"
   }
 ]
