@@ -25,12 +25,13 @@
   },
   {
     "to": "peer_1765978156186_gc92jyqqz",
-    "type": "offer",
+    "type": "ice-candidate",
     "data": {
-      "type": "offer",
-      "sdp": "v=0\r\no=- 4986608408640570831 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:xruV\r\na=ice-pwd:23LJjLUGYiSBpnJYimcEBigp\r\na=ice-options:trickle\r\na=fingerprint:sha-256 7B:1D:3E:D7:FA:BA:38:3D:E2:B0:B4:85:E6:C3:DE:A1:C4:FC:CE:DA:DB:82:5B:3C:82:00:63:21:64:58:88:B1\r\na=setup:actpass\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"
+      "candidate": "candidate:842163049 1 udp 1677729535 61.242.130.177 30860 typ srflx raddr 10.6.196.188 rport 44828 generation 0 ufrag xruV network-cost 999",
+      "sdpMid": "0",
+      "sdpMLineIndex": 0
     },
-    "timestamp": 1765978163568,
+    "timestamp": 1765978165234,
     "from": "peer_1765978160009_gcmj3xago"
   }
 ]
