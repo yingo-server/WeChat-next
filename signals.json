@@ -1,27 +1,5 @@
 [
   {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978799662_7sw055i54",
-      "username": "优雅狐狸904",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978800828
-    },
-    "timestamp": 1765978802152,
-    "from": "peer_1765978799662_7sw055i54"
-  },
-  {
-    "to": "peer_1765978156186_gc92jyqqz",
-    "type": "offer",
-    "data": {
-      "type": "offer",
-      "sdp": "v=0\r\no=- 7065136561295261857 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:z0J8\r\na=ice-pwd:1seGaFS7PMQdN1PcGlvbv4Cm\r\na=ice-options:trickle\r\na=fingerprint:sha-256 B4:02:FF:B8:02:D5:20:4C:8A:E9:59:36:1D:C2:E4:EC:99:27:CD:63:E0:7C:7B:72:13:EB:62:72:03:EF:AC:88\r\na=setup:actpass\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"
-    },
-    "timestamp": 1765978803749,
-    "from": "peer_1765978799662_7sw055i54"
-  },
-  {
     "to": "peer_1765978160009_gcmj3xago",
     "type": "offer",
     "data": {
@@ -113,6 +91,18 @@
       "timestamp": 1765978854420
     },
     "timestamp": 1765978854431,
+    "from": "peer_1765978833353_pp0ioe8bb"
+  },
+  {
+    "to": "all",
+    "type": "heartbeat",
+    "data": {
+      "peerId": "peer_1765978833353_pp0ioe8bb",
+      "username": "优雅星辰323",
+      "mode": "P2P (IPv4)",
+      "timestamp": 1765978864423
+    },
+    "timestamp": 1765978864444,
     "from": "peer_1765978833353_pp0ioe8bb"
   }
 ]
