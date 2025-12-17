@@ -1,21 +1,6 @@
 [
   {
     "type": "heartbeat",
-    "peerId": "1765980803234_ybjk6ik4v",
-    "username": "橙狗狗",
-    "supportedModes": [
-      "P2P_IPv6",
-      "GITHUB",
-      "DUAL"
-    ],
-    "activeModes": [
-      "P2P_IPv6",
-      "GITHUB"
-    ],
-    "timestamp": 1765980805042
-  },
-  {
-    "type": "heartbeat",
     "peerId": "1765980777143_zfyu1q7yc",
     "username": "橙熊猫",
     "supportedModes": [
@@ -144,5 +129,20 @@
       "GITHUB"
     ],
     "timestamp": 1765980861047
+  },
+  {
+    "type": "heartbeat",
+    "peerId": "1765980838724_7jm45um78",
+    "username": "紫狐狸",
+    "supportedModes": [
+      "P2P_IPv6",
+      "GITHUB",
+      "DUAL"
+    ],
+    "activeModes": [
+      "P2P_IPv6",
+      "GITHUB"
+    ],
+    "timestamp": 1765980862233
   }
 ]
