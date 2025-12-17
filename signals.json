@@ -54,5 +54,17 @@
     },
     "timestamp": 1765978826046,
     "from": "peer_1765978799662_7sw055i54"
+  },
+  {
+    "to": "all",
+    "type": "heartbeat",
+    "data": {
+      "peerId": "peer_1765978799662_7sw055i54",
+      "username": "优雅狐狸904",
+      "mode": "P2P (IPv4)",
+      "timestamp": 1765978830835
+    },
+    "timestamp": 1765978830864,
+    "from": "peer_1765978799662_7sw055i54"
   }
 ]
