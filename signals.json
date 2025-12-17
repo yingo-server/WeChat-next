@@ -1,98 +1,16 @@
 [
   {
-    "to": "all",
     "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978799662_7sw055i54",
-      "username": "优雅狐狸904",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978825944
-    },
-    "timestamp": 1765978826046,
-    "from": "peer_1765978799662_7sw055i54"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978799662_7sw055i54",
-      "username": "优雅狐狸904",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978830835
-    },
-    "timestamp": 1765978830864,
-    "from": "peer_1765978799662_7sw055i54"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978833353_pp0ioe8bb",
-      "username": "优雅星辰323",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978834418
-    },
-    "timestamp": 1765978835598,
-    "from": "peer_1765978833353_pp0ioe8bb"
-  },
-  {
-    "to": "peer_1765978799662_7sw055i54",
-    "type": "ice-candidate",
-    "data": {
-      "candidate": "candidate:2780202807 1 udp 1677729535 183.95.251.65 59165 typ srflx raddr 10.10.124.141 rport 32789 generation 0 ufrag iQMV network-cost 999",
-      "sdpMid": "0",
-      "sdpMLineIndex": 0,
-      "usernameFragment": "iQMV"
-    },
-    "timestamp": 1765978838754,
-    "from": "peer_1765978833353_pp0ioe8bb"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978833353_pp0ioe8bb",
-      "username": "优雅星辰323",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978844420
-    },
-    "timestamp": 1765978844431,
-    "from": "peer_1765978833353_pp0ioe8bb"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978833353_pp0ioe8bb",
-      "username": "优雅星辰323",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978854420
-    },
-    "timestamp": 1765978854431,
-    "from": "peer_1765978833353_pp0ioe8bb"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978833353_pp0ioe8bb",
-      "username": "优雅星辰323",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978864423
-    },
-    "timestamp": 1765978864444,
-    "from": "peer_1765978833353_pp0ioe8bb"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1765978833353_pp0ioe8bb",
-      "username": "优雅星辰323",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1765978874420
-    },
-    "timestamp": 1765978874437,
-    "from": "peer_1765978833353_pp0ioe8bb"
+    "peerId": "1765980777143_zfyu1q7yc",
+    "username": "橙熊猫",
+    "supportedModes": [
+      "P2P_IPv6",
+      "GITHUB",
+      "DUAL"
+    ],
+    "activeModes": [
+      "P2P_IPv6"
+    ],
+    "timestamp": 1765980794910
   }
 ]
