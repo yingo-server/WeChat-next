@@ -98,5 +98,20 @@
       "P2P_IPv6"
     ],
     "timestamp": 1765980834911
+  },
+  {
+    "type": "heartbeat",
+    "peerId": "1765980838724_7jm45um78",
+    "username": "紫狐狸",
+    "supportedModes": [
+      "P2P_IPv6",
+      "GITHUB",
+      "DUAL"
+    ],
+    "activeModes": [
+      "P2P_IPv6",
+      "GITHUB"
+    ],
+    "timestamp": 1765980840543
   }
 ]
