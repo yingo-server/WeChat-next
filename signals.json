@@ -78,5 +78,15 @@
     },
     "timestamp": 1765978835598,
     "from": "peer_1765978833353_pp0ioe8bb"
+  },
+  {
+    "to": "peer_1765978799662_7sw055i54",
+    "type": "offer",
+    "data": {
+      "type": "offer",
+      "sdp": "v=0\r\no=- 5594003617351940499 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:iQMV\r\na=ice-pwd:mKg+4VAhVaOtPaoCoak4Yd6V\r\na=ice-options:trickle\r\na=fingerprint:sha-256 01:15:48:AB:72:6A:CE:24:C8:1C:37:38:96:B1:B6:7C:5C:70:21:E1:10:2C:C0:9D:2D:FF:49:E2:40:4B:C0:F9\r\na=setup:actpass\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"
+    },
+    "timestamp": 1765978836853,
+    "from": "peer_1765978833353_pp0ioe8bb"
   }
 ]
