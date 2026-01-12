@@ -6,69 +6,9 @@
       "peerId": "peer_1768226678833_p3zo2ajpq",
       "username": "神秘飞鸟594",
       "mode": "P2P (IPv4)",
-      "timestamp": 1768226700369
+      "timestamp": 1768226812371
     },
-    "timestamp": 1768226700380,
-    "from": "peer_1768226678833_p3zo2ajpq"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1768226678833_p3zo2ajpq",
-      "username": "神秘飞鸟594",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1768226710368
-    },
-    "timestamp": 1768226710382,
-    "from": "peer_1768226678833_p3zo2ajpq"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1768226678833_p3zo2ajpq",
-      "username": "神秘飞鸟594",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1768226720375
-    },
-    "timestamp": 1768226720402,
-    "from": "peer_1768226678833_p3zo2ajpq"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1768226678833_p3zo2ajpq",
-      "username": "神秘飞鸟594",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1768226730371
-    },
-    "timestamp": 1768226730392,
-    "from": "peer_1768226678833_p3zo2ajpq"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1768226678833_p3zo2ajpq",
-      "username": "神秘飞鸟594",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1768226740367
-    },
-    "timestamp": 1768226740378,
-    "from": "peer_1768226678833_p3zo2ajpq"
-  },
-  {
-    "to": "all",
-    "type": "heartbeat",
-    "data": {
-      "peerId": "peer_1768226678833_p3zo2ajpq",
-      "username": "神秘飞鸟594",
-      "mode": "P2P (IPv4)",
-      "timestamp": 1768226752370
-    },
-    "timestamp": 1768226752380,
+    "timestamp": 1768226813020,
     "from": "peer_1768226678833_p3zo2ajpq"
   }
 ]
